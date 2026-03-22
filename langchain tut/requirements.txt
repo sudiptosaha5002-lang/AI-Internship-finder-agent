@@ -1,0 +1,11 @@
+flask
+flask-cors
+langchain
+langchain-openai
+langchain-community
+langchain-ollama
+python-dotenv
+beautifulsoup4
+PyPDF2
+requests
+langgraph

@@ -1,0 +1,1 @@
+{s: {"company": "React", "location": "New York, NY", "apply_links": "https://www.linkedin.com/jobs/search/?keywords=react%20intern&trk=onetrackjobs-search-result"}}

@@ -1,0 +1,24 @@
+[LinkedIn scraper error] Traceback:
+Traceback (most recent call last):
+  File "C:\Users\satin\OneDrive\Desktop\langchain tut\tools.py", line 47, in scrape_linkedin
+    soup = BeautifulSoup(res.text, "html.parser")
+           ^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'BeautifulSoup' where it is not associated with a value
+```internship_cards
+[
+  {
+    "id": 1,
+    "title": "[Google] Search Linkedin India",
+    "company": "Search Result",
+    "location": "India",
+    "duration": "Various",
+    "stipend": "Competitive",
+    "skills": [
+      "Python"
+    ],
+    "apply_link": "https://www.google.com/search?q=python+site:linkedin.com/jobs+India",
+    "applicants": 42,
+    "description": "Click Apply to search Linkedin directly via Google."
+  }
+]
+```

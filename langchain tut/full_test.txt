@@ -1,0 +1,34 @@
+﻿
+--- Testing LinkedIn ---
+Found 5 results
+First result: Software Engineer @ Capgemini
+Link: https://in.linkedin.com/jobs/view/software-engineer-at-capgemini-4388502796...
+
+--- Testing Indeed ---
+Found 0 results
+
+--- Testing Remotive ---
+Found 3 results
+First result: Senior Full-stack React Developer @ Lemon.io
+Link: https://remotive.com/remote-jobs/software-development/senior-full-stack-react-de...
+
+--- Testing FreshersHub ---
+Found 0 results
+
+--- Testing InternshipHub ---
+Found 4 results
+First result: Embedded Systems Internship @ Internship Hub
+Link: https://internshiphub.in/embedded-systems-internship/...
+
+--- Testing PlacementIndia ---
+Found 5 results
+First result: Hiring For COMMI -1 Freshers @ World Linq
+Link: https://www.placementindia.com/job-detail/1-commis-chef-in-world-linq-at-poland-...
+
+--- Testing Unstop ---
+Found 2 results
+First result: Python Development Internship @ Internship Mela
+Link: https://unstop.com/internships/python-development-internship-unstop-tech-fair-20...
+
+--- Testing Social Media (X/FB/IG) ---
+Found 0 results
